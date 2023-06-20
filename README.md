@@ -9,9 +9,6 @@ It is a virtual environment that bundles application code with all the dependenc
 # Docker Registry
 The Registry is a stateless, highly scalable server side application that stores and provides us a way to distribute our docker images.
 
-
-
-
 # Build, Run, Deploy, Publish, Distribute
 ![image](https://github.com/psangrama/DockerCommands/assets/113549457/a71af3d0-168e-4684-a3c3-8e0a72cabc7d)
 
